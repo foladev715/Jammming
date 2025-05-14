@@ -1,0 +1,14 @@
+.footer {
+    text-align: center;
+    margin: 0;
+    background-color: antiquewhite;
+    position: relative;
+    bottom: 0;
+    width: 100vw;
+    z-index: 2;
+  }
+
+  .footerText{
+    font-size: 2rem;
+    font-weight: bold;
+  }

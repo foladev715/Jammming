@@ -1,0 +1,15 @@
+.track {
+    border-bottom: solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 1% 0 1%;
+}
+
+span {
+    cursor: pointer;
+}
+
+.trackButton {
+    font-weight: bold;
+}

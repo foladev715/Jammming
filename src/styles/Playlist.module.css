@@ -1,0 +1,22 @@
+.playlistDiv {
+    background-color: antiquewhite;
+    height: 100%;
+}
+
+.playlistDiv button {
+
+    display: block;
+    margin: 10% auto;
+}
+
+.playlistInput {
+    display: flex;
+    width: 90%;
+    margin: 10% auto 0;
+    background-color: antiquewhite;
+    border: none;
+    border-bottom: solid;
+    border-width: thin;
+
+    outline: 0;
+}
